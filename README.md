@@ -31,8 +31,13 @@ http://www.dsp.utoronto.ca/~mhosseini/
 Citation:
 
 @article{hosseini2018focus, 
+
   title={Focus quality metric based on visual sensitivity}, 
+  
   author={Hosseini, Mahdi S and Zhang, Yueyang and Plataniotis, Konstantinos N}, 
+  
   journal={arXiv preprint arXiv:1808.00617}, 
+  
   year={2018} 
+  
 }
