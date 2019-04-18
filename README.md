@@ -1,8 +1,10 @@
 # HVS-MaxPol
 A MATLAB package for No-Reference (NR) Image Sharpness Assessment (ISA) of Natural Images
 ----------------------------------------------------------------
-General purpose:  
+Notes:  
 -	You can use this MATLAB package to score no-reference (NR) image sharpness assessment (ISA) of natural images to grade blurriness 
+- You can also run the codes online from Ocean Code [https://codeocean.com/capsule/9248761/] 
+
 ----------------------------------------------------------------
 Requirements:
 - MATLAB R2015b
