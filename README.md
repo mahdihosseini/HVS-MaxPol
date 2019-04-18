@@ -21,7 +21,7 @@ Utility functions:
 
 ----------------------------------------------------------------  
 Paper title: [Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment]  
-Paper Download: [IEEE Link Coming Soon]  
+Published in IEEE Transaction Image Processing: [https://ieeexplore.ieee.org/abstract/document/8672094]  
 
 ----------------------------------------------------------------
 Author:  
