@@ -32,15 +32,15 @@ http://www.dsp.utoronto.ca/~mhosseini/
 ----------------------------------------------------------------
 Citation:
 
-@ARTICLE{8672094, 
-author={M. S. {Hosseini} and Y. {Zhang} and K. N. {Plataniotis}}, 
-journal={IEEE Transactions on Image Processing}, 
-title={Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment}, 
-year={2019}, 
-volume={28}, 
-number={9},
-pages={4510-4525}, 
-doi={10.1109/TIP.2019.2906582}, 
-ISSN={1057-7149}, 
-month={Sep.}, 
-}
+@article{8672094,   
+author={M. S. {Hosseini} and Y. {Zhang} and K. N. {Plataniotis}},   
+journal={IEEE Transactions on Image Processing},   
+title={Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment},   
+year={2019},   
+volume={28},   
+number={9},  
+pages={4510-4525},   
+doi={10.1109/TIP.2019.2906582},   
+ISSN={1057-7149},   
+month={Sep.},   
+} 
