@@ -1,36 +1,37 @@
 # HVS-MaxPol
 A MATLAB package for No-Reference (NR) Image Sharpness Assessment (ISA) of Natural Images
 ----------------------------------------------------------------
-Notes:  
+## Notes:  
 -	You can use this MATLAB package to score no-reference (NR) image sharpness assessment (ISA) of natural images to grade blurriness 
-- You can also run the codes online from Ocean Code [https://codeocean.com/capsule/9248761/] 
-- The introduced FocusPath dataset can be also found from [https://sites.google.com/view/focuspathuoft]
+- You can also run the codes online from my [Ocean Code](https://codeocean.com/capsule/9248761/) 
+- The [FocusPath](https://sites.google.com/view/focuspathuoft) dataset
 ----------------------------------------------------------------
-Requirements:
+## Requirements:  
 - MATLAB R2015b
 
 ----------------------------------------------------------------
-MATLAB Codes:
+## MATLAB Codes:  
 
-Demo function:  
+### Demo function:  
 -	demo_NR_ISA.m 
 
-Utility functions:  
+### Utility functions:  
 -	HVS_MaxPol.m 
 -	image_background.m 
 
 ----------------------------------------------------------------  
-Paper title: [Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment]  
-Published in IEEE Transaction Image Processing: [https://ieeexplore.ieee.org/abstract/document/8672094]  
+## Related Publication:
+*Hosseini, Mahdi S., Yueyang Zhang, and Konstantinos N. Plataniotis. "[Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment](https://ieeexplore.ieee.org/abstract/document/8672094)." IEEE Transactions on Image Processing (2019).*  
+
 
 ----------------------------------------------------------------
-Author:  
+## Author:  
 Mahdi S. Hosseini  
 Email: mahdi.hosseini@mail.utoronto.ca  
 http://www.dsp.utoronto.ca/~mhosseini/  
 
 ----------------------------------------------------------------
-Citation:
+## Citation:  
 
 @article{8672094,   
 author={M. S. {Hosseini} and Y. {Zhang} and K. N. {Plataniotis}},   
