@@ -72,7 +72,7 @@ if sum(iB(:)) > 0 % background check
         mask = iB & (i_BP_v>0) & (i_BP_h>0);
         v = [abs(i_BP_v(mask)), abs(i_BP_h(mask))];
         
-        [pdf, x] = hist(v(:), 50);
+        [pdf, x] = histcounts(v(:), 50);
         cdf = cumsum(pdf)/sum(pdf);
         % find sigma approximate
         threshold = .95;
